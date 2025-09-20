@@ -1,6 +1,6 @@
 # Excel_Finance_Project
 "An interactive Excel-based Finance Analytics Dashboard for analyzing P&amp;L, profitability, KPIs, and financial trends with automated reporting and visualization.”
-# Excel-Based Finance Analytics Project
+# Excel-Based Finance Analytics Dashboard – AtilQ Hardwares
 ## 📊 Project Overview
 
 An interactive Finance Analytics Dashboard built in **Microsoft Excel** to analyze financial performance, profitability, and key business drivers. The dashboard consolidates **P\&L statements, KPIs, and trend analysis** into a single reporting solution for efficient decision-making.
@@ -60,5 +60,5 @@ An interactive Finance Analytics Dashboard built in **Microsoft Excel** to analy
 
 This project is licensed under the [MIT License](LICENSE).
 ## 📫 Contact
-Email: [nagavrnig075@gmail.com](mailto:nagavrnig075@gmail.com)  
+Email: [nagavenig075@gmail.com](mailto:nagavrnig075@gmail.com)  
 LinkedIn:(https://www.linkedin.com/in/nagaveni2001/)
